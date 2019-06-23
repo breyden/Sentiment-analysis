@@ -1,0 +1,2 @@
+- calculates the polarity and subjectivity of customer feedback using TextBlob
+-to execute install anaconda and launch  JupyterLab
